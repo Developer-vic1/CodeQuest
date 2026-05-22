@@ -1,1 +1,1 @@
-hola chicos este es el inicio de github
+Configuracion 2 del envio de codigo a github
